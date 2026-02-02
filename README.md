@@ -418,5 +418,3 @@ This project is intended for **research and educational use**. Please ensure pro
 * DIV2K Dataset
 * SRGAN authors
 * Donghee Han — SRGAN PyTorch reference implementation
-
-If you find this project useful, consider giving it a ⭐ on GitHub.
