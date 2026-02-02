@@ -309,7 +309,7 @@ During validation, results are saved as triplets:
 ```
 [ Bicubic Upscaled                 | Ground Truth |                    SRGAN Output ]
 ```
-![Alt text](results\epoch_100_index_1.png)
+![Alt text](results/epoch_100_index_1.png)
 
 
 These qualitative comparisons are critical for assessing GAN-based super-resolution.
@@ -418,3 +418,5 @@ This project is intended for **research and educational use**. Please ensure pro
 * DIV2K Dataset
 * SRGAN authors
 * Donghee Han — SRGAN PyTorch reference implementation
+
+If u find this repo helpful pls consider giving it a ⭐ on github.
