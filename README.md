@@ -307,8 +307,10 @@ Note: SRGAN optimizes perceptual quality, so PSNR may be lower than purely MSE-t
 During validation, results are saved as triplets:
 
 ```
-[ Bicubic Upscaled | Ground Truth | SRGAN Output ]
+[ Bicubic Upscaled                 | Ground Truth |                    SRGAN Output ]
 ```
+![Alt text](results\epoch_100_index_1.png)
+
 
 These qualitative comparisons are critical for assessing GAN-based super-resolution.
 
